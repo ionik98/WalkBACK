@@ -1,5 +1,5 @@
 html, body {
-    background-image: url("/site/windowsxp-blurred.jpg");
+    background-image: url("site/windowsxp-blurred.jpg");
     background-size: cover;
     font-family: 'Verdana', 'Helvetica', 'Arial', 'Times-New-Roman';
     font-size: 12px;
@@ -158,7 +158,7 @@ a:hover{text-decoration: underline;}
 }
 .text-bg
 {
-    background-image: url("/site/windowsxp-blurred.jpg");
+    background-image: url("site/windowsxp-blurred.jpg");
     width: 100%;
     height: 50px;
     text-align: center;
